@@ -1,0 +1,9 @@
+name: RecipeScramble
+main: me.bghd.zanctarian.Core
+version: 1.0 DEV
+author: BGHD-Zanctarian
+description: A recipe rescrambler
+commands:
+  rescramble:
+    usage: /<command>
+    description: Rescramble all of the crafting recipes!
